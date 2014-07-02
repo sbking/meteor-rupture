@@ -1,0 +1,3 @@
+[submodule "rupture"]
+	path = rupture
+	url = git://github.com/jenius/rupture.git

@@ -1,0 +1,8 @@
+{
+  "name": "rupture",
+  "description": "Simple media queries for stylus.",
+  "author": "jenius",
+  "homepage": "http://jenius.github.io/rupture/",
+  "version": "0.1.0",
+  "git": "https://github.com/sbking/rupture.git"
+}
